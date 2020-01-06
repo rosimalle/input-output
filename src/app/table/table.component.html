@@ -1,0 +1,13 @@
+
+<div class="form-group has-search">
+    <span class="fa fa-search"></span>
+    <input type="text" class="form-control" placeholder="Search"  [(ngModel)]="filtering">
+  </div>
+<table class="table table-success">
+    <tr>
+        <th>EmpName</th>
+    </tr>
+    <tr *ngFor="let x of storedata |filterpp:filtering" (click)="calldata(x)">
+        <td>{{x.firstname}}</td>
+    </tr>
+</table>

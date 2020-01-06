@@ -1,0 +1,9 @@
+ul li {
+    list-style: none;
+    position: relative;
+    top: 7em;
+    background: #cac0ff;
+    padding: 19px;
+    font-weight: bold;
+    border-radius: 13px;
+}

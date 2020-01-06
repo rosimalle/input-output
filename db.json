@@ -1,0 +1,11 @@
+{
+  "employees": [
+    { "firstname":  "roja", "lastname" : "mallelu", "emphone": 989437485, "ememail": "roja@gmail.com" },
+    { "firstname":  "pooja", "lastname" : "alue", "emphone": 893746074, "ememail": "roja@gmail.com" },
+    { "firstname":  "maha", "lastname" : "banea", "emphone": 3536569, "ememail": "roja@gmail.com" },
+    { "firstname":  "balu", "lastname" : "kadiya", "emphone": 9825423563, "ememail": "roja@gmail.com" },
+    { "firstname":  "dev", "lastname" : "gllo", "emphone": 78549324, "ememail": "roja@gmail.com" }
+  ]
+  
+  
+}
